@@ -3,3 +3,9 @@ h1 {
    color: blue;
    font-weight: 600; 
 }
+
+form {
+    display: block;
+
+    text-align: center;
+}
