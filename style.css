@@ -1,7 +1,18 @@
+
+.body {
+    margin: 100px auto;
+    border-radius: 20px;
+    width: 45%;
+    background-color: #efefeff6;
+    padding-top: 20px;
+    padding-bottom: 40px; 
+    padding-left: 20px;
+    padding-right: 20px;
+}
 h1 {
    text-align: center;
-   color: blue;
-   font-weight: 600; 
+   color: #ff35fc;
+   font-weight: 800; 
 }
 
 form {
